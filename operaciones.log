@@ -1,0 +1,11 @@
+ene 28, 2025 10:49:40 A. M. principal.Calculadora main
+FINE: Operacion sumar
+ene 28, 2025 10:49:51 A. M. principal.Calculadora main
+FINE: Operacion multiplicar
+ene 28, 2025 10:50:06 A. M. principal.Calculadora main
+FINE: Operacion multiplicar
+<HTML>
+<p>Operacion sumar</p>
+<p>Operacion multiplicar</p>
+<p>error al realizar operacion: {0}</p>
+</HTML>
